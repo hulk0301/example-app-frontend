@@ -31,7 +31,7 @@ class App extends Component {
           >
             Intereseted in React. Learn React
           </a>
-          <a>Backend version: {this.state.backendVersion}</a>
+          <p>Backend version: {this.state.backendVersion}</p>
         </header>
       </div>
     );
